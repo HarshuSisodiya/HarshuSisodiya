@@ -36,10 +36,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/feed/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@harshusisodiya&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=harshusisodiya&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://facebook.com/profile.php" target="_blank">
