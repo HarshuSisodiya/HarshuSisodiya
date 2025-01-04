@@ -1,4 +1,4 @@
-h2 align="left">Hi 👋! My name is Mohit and I am an experienced Software Engineer.</h2>
+<h2 align="left">Hi 👋! My name is Harshita Sisodiya and I am an experienced Software Engineer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themohitrajput&label=Profile%20views&color=0e75b6&style=flat" alt="themohitrajput" /> </p>
 <img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif"  />
