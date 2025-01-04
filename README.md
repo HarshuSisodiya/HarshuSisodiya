@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Harshita Sisodiya and I am an experienced Software Engineer.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themohitrajput&label=Profile%20views&color=0e75b6&style=flat" alt="themohitrajput" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitasisodiya&label=Profile%20views&color=0e75b6&style=flat" alt="harshitasisodiya" /> </p>
 <img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif"  />
 
 <br><br><br>
@@ -63,7 +63,7 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=themohitrajput&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=harshuSisodiya&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=themohitrajput&theme=dark&hide_border=false" />
 </td>
