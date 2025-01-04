@@ -41,16 +41,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohit-devda-a49181223" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@themohitrajput&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@harshusisodiya&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/mohit_banna_mp47" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=themohitrajput&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=harshusisodiya&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://facebook.com/profile.php?id=100037086873283" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=themohitrajput1&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://facebook.com/profile.php" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=harshusisodiya&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-<!--   <img src="https://img.shields.io/static/v1?message=mukeshkarn1994@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=harshusisodiya&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
