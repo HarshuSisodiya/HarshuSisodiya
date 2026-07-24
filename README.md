@@ -12,6 +12,9 @@
 </p>
 
 <p align="center">
+  <a href="https://harshitasisodiya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-harshitasisodiya.vercel.app-00F3FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/harshitasisodiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -32,6 +35,7 @@ Full Stack Developer with **3+ years of experience** designing, developing, and 
 
 ### 🙋‍♀️ About Me & Highlights
 
+- 🌐 **Live Portfolio Website**: [harshitasisodiya.vercel.app](https://harshitasisodiya.vercel.app/)
 - 🏢 **Current Role**: Software Engineer at **Codiant - A Yash Technologies Company**
 - 🎓 **Academic Background**: Master of Computer Application (MCA) – *Merit Awardee*
 - 💡 **Domain Expertise**: Healthcare, E-Commerce, Real Estate, and Multi-tenant SaaS
