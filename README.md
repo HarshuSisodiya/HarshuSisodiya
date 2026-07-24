@@ -4,9 +4,30 @@
 <img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif" />
 
 <br><br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1DBD10&background=00000000&center=false&vCenter=true&width=550&height=30&lines=Full+Stack+Developer+%7C+3%2B+Years+Experience;Building+Scalable+Web+Apps%2C+Microservices+%26+AI;%22If+you+stop+learning%2C+you+surely+stop+growing.%22;%22You+are+the+only+one+who+can+make+you+successful.%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1DBD10&background=00000000&center=false&vCenter=true&width=600&height=30&lines=Full+Stack+Developer+%7C+3%2B+Years+Experience;Building+Scalable+Web+Apps%2C+Microservices+%26+AI;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;%22If+you+stop+learning%2C+you+surely+stop+growing.%22" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="left">📌 Profile Summary</h3>
+<p align="left">
+Full Stack Developer with 3+ years of experience designing, developing, and maintaining scalable web applications using React.js, Next.js, Node.js, Express.js, and TypeScript. Skilled in responsive UIs, RESTful APIs, microservices, and AI-powered interfaces using OpenAI and RAG pipelines. Passionate about system architecture and frontend/backend performance optimization.
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="left">🙋‍♀️ About Me</h3>
+<ul align="left">
+  <li>📍 <b>Location</b>: Indore, Madhya Pradesh, India</li>
+  <li>💼 <b>Role</b>: Software Engineer at Codiant - A Yash Technologies Company</li>
+  <li>🎓 <b>Education</b>: Master of Computer Application (MCA) – Merit Awardee</li>
+  <li>🚀 <b>Domain Expertise</b>: Healthcare, E-Commerce, Real Estate, and SaaS Platforms</li>
+  <li>⚡ <b>Specialties</b>: AI RAG Pipelines, OpenAI APIs, Microservices & Redis Caching</li>
+  <li>🌱 <b>Exploring</b>: Advanced Cloud Architectures & Distributed Systems</li>
+</ul>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="left">🛠️ Languages & Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -42,6 +63,8 @@
 <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="left">🌐 Connect with Me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/harshitasisodiya/" target="_blank">
