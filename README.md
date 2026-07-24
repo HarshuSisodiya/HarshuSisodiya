@@ -31,8 +31,6 @@
 ### 📌 Profile Summary
 Full Stack Developer with **3+ years of experience** designing, developing, and maintaining scalable web applications using **React.js, Next.js, Node.js, Express.js, and TypeScript**. Skilled in building responsive UIs, RESTful APIs, microservices, and AI-powered interfaces using **OpenAI and RAG pipelines**. Experienced in reducing page load times via Redis caching, lazy loading, DB query tuning, and collaborating directly with international clients in Agile teams.
 
-<br>
-
 ### 🙋‍♀️ About Me & Highlights
 
 - 🌐 **Live Portfolio Website**: [harshitasisodiya.vercel.app](https://harshitasisodiya.vercel.app/)
